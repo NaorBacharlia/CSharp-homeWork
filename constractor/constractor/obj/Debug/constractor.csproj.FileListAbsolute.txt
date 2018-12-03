@@ -1,0 +1,7 @@
+C:\Users\naorb\OneDrive\Desktop\Google Drive\לימודים\C#\constractor\constractor\bin\Debug\constractor.exe.config
+C:\Users\naorb\OneDrive\Desktop\Google Drive\לימודים\C#\constractor\constractor\bin\Debug\constractor.exe
+C:\Users\naorb\OneDrive\Desktop\Google Drive\לימודים\C#\constractor\constractor\bin\Debug\constractor.pdb
+C:\Users\naorb\OneDrive\Desktop\Google Drive\לימודים\C#\constractor\constractor\obj\Debug\constractor.csprojAssemblyReference.cache
+C:\Users\naorb\OneDrive\Desktop\Google Drive\לימודים\C#\constractor\constractor\obj\Debug\constractor.csproj.CoreCompileInputs.cache
+C:\Users\naorb\OneDrive\Desktop\Google Drive\לימודים\C#\constractor\constractor\obj\Debug\constractor.exe
+C:\Users\naorb\OneDrive\Desktop\Google Drive\לימודים\C#\constractor\constractor\obj\Debug\constractor.pdb
