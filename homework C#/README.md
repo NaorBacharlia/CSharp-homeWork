@@ -74,7 +74,7 @@ namespace homework26._11
 }
 ```
 
-**result**
+__result__
 
 
 
